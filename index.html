@@ -1,1 +1,19 @@
-hello world
+---
+layout: default
+---
+<div class="container">
+  <div class="blog-header">
+    <h1 class="blog-title">Mike Plis</h1>
+    <p class="lead blog-description">This is where I write about sports, numbers, technology, and whatever else interests me</p>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 blog-main">
+      <h2>Blog posts:</h2>
+      <ul class="list-unstyled">
+      {% for post in site.posts %}
+        <li>{{ post.date | date_to_string }} | <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
