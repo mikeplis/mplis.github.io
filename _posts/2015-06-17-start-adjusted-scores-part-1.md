@@ -19,7 +19,7 @@ I haven't done any in-depth work with MAWP, so I have no idea if it has any pred
 
 {% include sortedTable.html data=site.data.start_qb table_id="qb" initial_sort=3 %}
 
-### Nick Foles
+## Nick Foles
 Foles is a player that jumps out at me when looking at this data. His PPG wasn't very good, but his MAWP is higher than I would have thought. So I decided to take a closer look at his numbers from last season.
 
 First, his PPG is skewed by his week 9 score of 8.1. He was injured early in the 2nd quarter, so he was actually on his way to a solid game. If you throw out that week, Foles' PPG would be 18.2, which would bump him up to 14th. 
@@ -28,7 +28,7 @@ Looking at the games he played in full, there's only one truly bad game: week 4 
 
 I know the Rams offense is a bit different from the Eagles offense, but Foles is currently coming off the board as the QB23 on FantasyFootballCalculator which seems too low to me. The Rams have a decent group of WR's that have arguably been held back by their QB's and offensive coordinator the past couple of seasons. They also bolstered their offensive line and running game in the draft, so I think Foles could be a good value in 2015.
 
-### Ben Roethlisberger
+## Ben Roethlisberger
 
 Big Ben's 2014 season was actually what compelled me to begin looking at start percentage data. Roethlisberger finished as the QB6  last season (even higher in leagues that award 6 points per passing TD) so someone just looking at his final stats could easily think that his current price of QB7 makes him a good value. However, he had two huge games in weeks 8 and 9 that buoyed his numbers. Some argued that owning a guy that can have huge weeks is very valuable, but my hypothesis was that a lot of owners didn't even start Roethlisberger those weeks.
 
@@ -37,6 +37,6 @@ Roethlisberger had a [preseason ADP](http://fantasyfootballcalculator.com/adp.ph
 There are certainly reasons to like Big Ben this season. Getting to play with studs Antonio Brown and Le'Veon Bell, along with the anticipated development of Martavis Bryant, bode well for his 2015 outlook. However, those players were all there last season and Roethlisberger still only managed pedestrian numbers outside of weeks 8 and 9. His high 2014 stats but low MAWP suggest a lot of his owners saw him put up tons of points on their benches. I think I'm going to be avoiding Roethlisberger at his current price. 
 
 
-### Conclusion
+## Conclusion
 
 MAWP is great at flagging players that may require a closer look, whose end-of-season stats maybe tell a misleading story. In future posts, I'll take a look at the other skill positions and see if there are any insights to be gained. Also, I believe I've only started to scratch the surface of what start percentage data can be used for and I have some ideas for how to take this analysis even further.
