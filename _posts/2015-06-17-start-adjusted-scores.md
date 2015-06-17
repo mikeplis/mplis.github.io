@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adjusting Fantasy Scoring Using Start Percentage: Quarterbacks
+title: Adjusting Fantasy Scoring Using Start Percentage
 ---
 
 Lately I've been looking at start percentage data from MyFantasyLeague as part my analyses. I've found that combining it with a player's weekly scores can help answer an important question: how much did a player help his owners win their weekly matchups? Players can be inconsistent, mixing huge games with mediocre or even terrible games, making it very difficult to know when to start or sit him. Those big weeks can skew his stats, meaning that end-of-season rankings won't tell the whole story.
@@ -35,6 +35,7 @@ Big Ben's 2014 season was actually what compelled me to begin looking at start p
 Roethlisberger had a [preseason ADP](http://fantasyfootballcalculator.com/adp.php?format=standard&year=2014&teams=12&view=graph&pos=qb) of QB17 in 2014, so it's not surprising that his start percentage was only around 33% in week 1. His usage fluctuated between 20% and 55% for the next few weeks, with the high values likely being due to great matchups (e.g. Tampa Bay the week after they got torched by the Falcons on TNF), falling back down to the low 30's in advance of his week 8 blowup. That's right folks, only one-third of owners benefited from one of the highest single-game scores of the 2014 season. Not only was Roethlisberger's start percentage so low when he had his biggest game, it only jumped up to 65% the following week (just the 13th highest usage rate that week) when he had his 2nd biggest game. His usage predictably skyrocketed the following week, but he was only a fringe QB1 at best the rest of the season.
 
 There are certainly reasons to like Big Ben this season. Getting to play with studs Antonio Brown and Le'Veon Bell, along with the anticipated development of Martavis Bryant, bode well for his 2015 outlook. However, those players were all there last season and Roethlisberger still only managed pedestrian numbers outside of weeks 8 and 9. His high 2014 stats but low MAWP suggest a lot of his owners saw him put up tons of points on their benches. I think I'm going to be avoiding Roethlisberger at his current price. 
+
 
 ### Conclusion
 
