@@ -3,32 +3,40 @@ layout: post
 title: Adjusting Fantasy Scoring Using Start Percentage
 ---
 
-Lately I've been looking at using start percentage data from MyFantasyLeague in my analyses and wanted to share some of my initial observations.<!--Start percentage data is interesting because it's a pretty good proxy for a player's historical weekly ranking (which can be difficult to find). It incorporates his recent production, his opponent that week, and his health. Combining this data with weekly fantasy scores yields some interesting insights. It can show how consistent a player was or wasn't and show us some situations where we as a community had a tough time figuring out a player's value. -->
+Lately I've been looking at using start percentage data from MyFantasyLeague in my analyses. One thing I've done with this data is combine it with a player's weekly scores to try to answer an important question: how much did a player help his owners win their weekly matchups? Players can be inconsistent, mixing huge games with mediocre or even terrible games, making it very difficult to know when to start or sit him. Those big weeks can end up skewing his stats, meaning that end-of-season rankings won't tell the whole story.<!--Start percentage data is interesting because it's a pretty good proxy for a player's historical weekly ranking (which can be difficult to find). It incorporates his recent production, his opponent that week, and his health. Combining this data with weekly fantasy scores yields some interesting insights. It can show how consistent a player was or wasn't and show us some situations where we as a community had a tough time figuring out a player's value. -->
 
-Methodology
----
-I retrieved weekly start percentage data using [MFL's topStarters API endpoint](http://football.myfantasyleague.com/2014/export) and my weekly fantasy data is courtesy of [ProFootballFocus](https://www.profootballfocus.com/) (subscription required for fantasy data). All points listed assume 4 points per passing TD, 6 points for all other TD's, 1 point for every 25 passing yards, and 1 point for every 10 rushing and receiving yards. Then, for each week of the season, I multiplied a player's start percentage by the points he scored that week. For example, in week 1 of last season, Aaron Rodgers was started by 88.3% of teams and he scored 10.6 points giving him an adjusted score of 9.36. Then, I summed up each player's adjusted scores for the season and took that number as a percentage of his total points scored for the season. Using Rodgers again as an example, he finished the season with 361.1 total points and 350.3 adjusted points, giving a percentage of 97.01%.<!--This final number essentially shows what percentage of a player's points actually went towards helping his fantasy owners win their weekly matchups.--> This final percentage is what I want to focus on.
+## Methodology
 
-Motivation
----
-I'll often look back at season-end data to remind myself how a player did last season. Most of the time, the data I look at will show how many games a player played or show some kind of per game average score to put a player's stats in better context if he was injured or something. However, this kind of data doesn't answer an important question: how much did a player help his owners win their weekly matchups? The player that really got me thinking about this question was Ben Roethlisberger. Depending on your scoring system, Roethlisberger finished in the QB4-6 range last season, but many will remember that he had those two huge games in weeks 8 and 9 that buoyed his final stats.
+I retrieved weekly start percentage data using [MFL's topStarters API endpoint](http://football.myfantasyleague.com/2014/export) and my weekly fantasy data is courtesy of [ProFootballFocus](https://www.profootballfocus.com/) (subscription required for fantasy data). All points listed assume 4 points per passing TD, 6 points for all other TD's, 1 point for every 25 passing yards, and 1 point for every 10 rushing and receiving yards. For each week of the season, I multiplied a player's start percentage by the points he scored that week. For example, in week 1, Aaron Rodgers was started by 88.3% of teams and he scored 10.6 points giving him an adjusted score of 9.36. Then, I summed up each player's adjusted scores for the season and took that number as a percentage of his total points scored for the season. Using Rodgers again as an example, he finished the season with 361.1 total points and 350.3 adjusted points, giving a percentage of 97.01%. To make it easier for me to talk about this data, I've named this final number Mike's Awesome Percentage (MAP). Yes, I'm actually calling it that. I spent way longer than I care to admit trying to come up with some cool name for this number, and I kept writing "Mike's Awesome Percentage" as a placeholder because I'm a programmer and [therefore terrible at naming things](https://twitter.com/codinghorror/status/506010907021828096). I couldn't come up with anything good, so at this point I'm just going to go with it.
 
-<table class="tablesorter">
-  <thead>
-    <tr>
-      <th>Foo</th>
-      <th>Bar</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Baz</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Qux</td>
-      <td>2</td>
-    </tr>
-  </tbody>
-</table>
+<!--## Motivation
+
+I'll often look back at season-end data to remind myself how a player did last season.Most of the time, the data I look at will show how many games a player played or show some kind of per game average score to put a player's stats in better context if he was injured or something like that. However, this kind of data doesn't answer an important question: how much did a player help his owners win their weekly matchups? The goal in (most) fantasy football leagues is to pick a lineup every week that will outscore your opponent's lineup, so I think it's important for our analysis to focus on this question. MIKE'S AWESOME PERCENTAGE essentially shows the percentage of a player's points that actually went towards helping his owners win.-->
+
+<!-- The player that really got me thinking about this question was Ben Roethlisberger. Roethlisberger finished in the QB4-6 range last season, depending on your scoring system. However, as some will remember, he had two huge games in weeks 8 and 9 that buoyed his final stats. Some would argue that owning a guy that can have those huge weeks is very valuable, but my hypothesis was that a lot of owners didn't even start Roethlisberger those weeks, and that's what led me to begin looking at start percentages. -->
+
+I haven't done any in-depth work with MAP, so I have no idea if it has any predictive value, but I do think it has a lot of exploratory value. It highlights players whose stats maybe require a closer look. Below is some data on most the 2014 QB's along with their MAP values.
+
+{% include sortedTable.html data=site.data.start_qb table_id="qb" initial_sort=3 %}
+
+### Andrew Luck, Aaron Rodgers, Peyton Manning, Drew Brees
+These 4 players form a very clear top tier. At least 95% of their points went towards helping their owners and they all finished near the top of their position after being drafted highly. Their owners were able to virtually set and forget their QB spot all season and get elite production (although Luck really screwed his owners over in week 16). I think the difference in adjusted points between these 4 players and the rest of the QB's highlights the importance of having a QB that you can confidently start week in and week out.
+
+### Matthew Stafford
+After the top tier, Stafford had the highest MIKE'S AWESOME PERCENTAGE, despite finishing the season with mid-QB2 numbers. A lot of that can be attributed to his high preseason ADP ([QB4 according to FantasyFootballCalculator](http://fantasyfootballcalculator.com/adp.php?format=standard&year=2014&teams=12&view=graph&pos=qb)). He started off the season with a bang in week 1, justifying his high selection, but followed that up with 2 poor weeks. That was enough to make some of his owners nervous, as his start percentage dropped from around 95% to 86%, but he rewarded his loyal owners with a strong game in week 4. However, over the next 2 months, he averaged about 14 points and had an average weekly rank of 19. He rebounded in weeks 13 and 14 with a couple of low-QB1 weeks, only to gut-punch his owners in the playoffs, finishing as the QB21 in week 15 and the QB30 in week 16. Through all of this, Stafford's start percentage never dipped below 70%. Stafford serves as an important reminder to not get too caught up in a player's draft position.
+
+<!-- ### Russell Wilson, Ben Roethlisberger, Ryan Tannehill
+According to [FantasyFootballCalculator's 2014 preseason ADP](http://fantasyfootballcalculator.com/adp.php?format=standard&year=2014&teams=12&view=graph&pos=qb), these 3 QB's were drafted as the QB15, QB17, and QB19 respectively (I had to use the [2-QB ADP](http://fantasyfootballcalculator.com/adp.php?format=2qb&year=2014&teams=12&view=graph&pos=qb) to find Tannehill's rank) and they all finished in the top 12 in total points and points per game. However, their MIKE'S AWESOME PERCENTAGE values suggest they didn't help their owners as much as their final stats might suggest. -->
+
+<!-- Tannehill's MIKE'S AWESOME PERCENTAGE is probably the least surprising. He was drafted as a low-QB2 and started the season pretty slow, only being started in about 20% of leagues. He then had 3 straight weeks of low-QB1 scores that got the attention of his owners and his start percentage began to rise. However, from that point on, he mixed huge games (weeks 9, 12, and 16) with duds (weeks 10 and 13) making it difficult for his owners to truly trust him. -->
+
+### Nick Foles
+Foles is another player that jumps out at me when looking at this data. Initially, it looks like he's a similar case to Stafford. He was drafted as a QB1, has a high MIKE'S AWESOME PERCENTAGE, and a relatively low PPG. However, after looking into Foles' numbers more, I believe that there is some room for optimism. First, his PPG is skewed by his week 9 score of 8.1. Foles was injured early in the 2nd quarter of that game, so he was actually on his way to a solid game. If you throw out that week, Foles' PPG would be 18.2, which would bump him up to 14th. Looking at the games played in full, there's only one truly bad game: week 4 at San Francisco. Now I'm not one to throw away an outlier just because it's an outlier; a bad game is still a bad game. However, I think Foles' MIKE'S AWESOME PERCENTAGE reflects the confidence his owners had in him. He was playing pretty well before that game and continued to play well after that game, averaging just over 20 points in his other games, which translate to low-QB1 finishes. I know the Rams offense is a far cry from the Eagles offense, but Foles is currently coming off the board as the QB23 and I think he may be undervalued after looking more closely at his stats.
+
+### Ben Roethlisberger
+Roethlisberger had a preseason ADP of QB17, so it's not surprising that his start percentage was around 33% in week 1 and fell to around 20% after posting 2 straight low scores in weeks 2 and 3. It spiked to 50% in week 4 going into a matchup with a Tampa Bay defense that had been [absolutely torched by the Falcons](http://www.nfl.com/gamecenter/2014091800/2014/REG3/buccaneers@falcons?icampaign=GC_schedule_rr#menu=gameinfo%7CcontentId%3A0ap3000000400166&tab=recap) the week before. Big Ben was able to take advantage of this matchup to the tune of 25.4 points (QB6 for the week). His start percentage stayed about the same the next week, as his owners were likely hoping that he could take advantage of another good matchup against Jacksonville, but he scored a disappointing 14.7 points (QB22). He followed that up with 2 more unremarkable games and his start percentage dropped back to around 33% heading into week 8. That's right folks, only one-third of owners were able to benefit the one of the highest single-game scores of the 2014 season. Not only was Roethlisberger's start percentage so low when he had his biggest game, it only jumped up to 65% the following week when he had his 2nd biggest game. His usage predictably skyrocketed the following week, but he was only a low-QB1 at best the rest of the season.
+
+
+
+
 
