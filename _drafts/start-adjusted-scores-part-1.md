@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adjusting Fantasy Scoring Using Start Percentage
+title: Adjusting Fantasy Scoring Using Start Percentage - Quarterbacks
 ---
 
 Lately I've been looking at start percentage data from MyFantasyLeague as part my analyses. I've found that combining it with a player's weekly scores can help answer an important question: how much did a player help his owners win their weekly matchups? Players can be inconsistent, mixing huge games with mediocre or even terrible games, making it very difficult to know when to start or sit him. Those big weeks can skew his stats, meaning that end-of-season rankings won't tell the whole story.
