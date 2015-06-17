@@ -1,0 +1,27 @@
+<table id="{{ include.table_id }}" class="table table-condensed table-bordered table-striped tablesorter">
+  <thead>
+    <tr>
+      <!-- this assumes header row in csv file is formatted correctly -->
+      {% for data in include.data.first %}
+        <th>{{ data[0] }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in include.data %}
+      <tr>
+        {% for data in row %}
+          <td>{{ data[1] }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<script type="text/javascript">
+  $(document).ready(function() { 
+      $("#{{ include.table_id }}").tablesorter({
+        sortList: [[{{ include.initial_sort}}, 1]],
+        sortInitialOrder: 'desc'
+      }); 
+  }); 
+</script>
