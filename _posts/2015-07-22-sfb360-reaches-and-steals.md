@@ -34,7 +34,7 @@ As a dynasty owner, I can see the appeal of Davante Adams. As a redraft owner, I
 
 #### [Pick Number: 122](http://football30.myfantasyleague.com/2015/options?L=75504&O=17&DISPLAY=DIVISION03), ADP: 224.3
 
-I dislike Carlos Hyde as much as the next person, but this seems like a pretty steep price to pay for Davis, who could very, very easily end the season with the third most touches among SF running backs behind Hyde and Reggie Bush. Davis was taken before pick 200 in only five drafts and before pick 150 in just one other draft, so Stephen could have almost definitely waited to take Davis.
+I dislike Carlos Hyde as much as the next person, but this seems like a pretty steep price to pay for Davis, who could very, very easily end the season with the third-most touches among SF running backs behind Hyde and Reggie Bush. Davis was taken before pick 200 in only five drafts and before pick 150 in just one other draft, so Stephen could have almost definitely waited to take Davis.
 
 ### Clive Walford
 
