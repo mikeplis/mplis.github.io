@@ -6,7 +6,7 @@ Now that all of the 2015 [Scott Fish Bowl](http://scottfishbowl.com/) drafts are
 
 ## Methodology
 
-Identifying the best values is a subjective process. I looked at the players with the biggest absolute difference between where they were picked and what their ADP was, but I also looked at players with the biggest percent difference, since using just absolute difference would cause me to miss some big reaches and steals in the early rounds. Both measures tended to ignore the middle rounds, so I also hand-selected some picks in that range as well.
+Identifying the biggest reaches and steals is a subjective process. I looked at the players with the biggest absolute difference between where they were picked and what their ADP was across all 30 SFB drafts, but I also looked at players with the biggest percent difference, since using just absolute difference would cause me to miss some big reaches and steals in the early rounds. Both measures tended to ignore the middle rounds, so I hand-selected some picks in that range as well.
 
 ## Biggest Reaches
 
@@ -18,7 +18,7 @@ In a league with so many owners, there are bound to be people whose player evalu
 
 #### [Pick Number: 4](http://football30.myfantasyleague.com/2015/options?L=57897&O=17&DISPLAY=DIVISION03), ADP: 18.7
 
-McCoy is a good bet to lead the league in carries this season, which makes him a good target in this 0.25 point per carry league, but this was still one of the bigger reaches in the early rounds, as McCoy was only taken in the first round in three of the 30 SFB drafts. While Tim obviously likes McCoy this season, there was a decent chance McCoy would have made it to his next pick (McCoy was picked at or after pick 21 in almost half of the drafts).  
+McCoy is a good bet to lead the league in carries this season, which makes him a good target in this 0.25 point per carry league, but this was still one of the bigger reaches in the early rounds, as McCoy was taken in the first round in only two other drafts. While Tim obviously likes McCoy this season, there was a decent chance McCoy would have made it to his next pick (McCoy was picked at or after pick 21 in almost half of the drafts).  
 
 ### Davante Adams 
 
@@ -26,7 +26,7 @@ McCoy is a good bet to lead the league in carries this season, which makes him a
 
 #### [Pick Number: 60](http://football30.myfantasyleague.com/2015/options?L=56539&O=17&DISPLAY=DIVISION04), ADP: 116.3
 
-As a dynasty owner, I can see the appeal of Davante Adams. As a redraft owner, I can't, and certainly not at this price. He showed some flashes as a rookie, but overall I think he had an average season at best. I think he'll have a tough time living up to his WR24 price placed on him here while playing behind Jordy Nelson and Randall Cobb. Speaking of Nelson, this pick was even stranger to me given that Nelson was the first WR taken by this owner, although she also owns Rodgers, so this might be a simple homer pick.
+As a dynasty owner, I can see the appeal of Davante Adams. As a redraft owner, I can't, and certainly not at this price. He showed some flashes as a rookie, but overall I think he had an average season at best. I think he'll have a tough time living up to the WR24 price placed on him here while playing behind Jordy Nelson and Randall Cobb. Speaking of Nelson, this pick was even stranger to me given that Nelson was the first WR taken by this owner, although she also owns Rodgers, so this might be a simple homer pick.
 
 ### Mike Davis
 
@@ -34,7 +34,7 @@ As a dynasty owner, I can see the appeal of Davante Adams. As a redraft owner, I
 
 #### [Pick Number: 122](http://football30.myfantasyleague.com/2015/options?L=75504&O=17&DISPLAY=DIVISION03), ADP: 224.3
 
-I dislike Carlos Hyde as much as the next person, but this seems like a pretty steep price to pay for Davis, who could very, very easily end the season with the 3rd most touches among SF running backs behind Hyde and Reggie Bush. Davis was taken before pick 200 in only five drafts and before pick 150 in one other draft, so he would have almost definitely still been around at Stephen's next pick.
+I dislike Carlos Hyde as much as the next person, but this seems like a pretty steep price to pay for Davis, who could very, very easily end the season with the third most touches among SF running backs behind Hyde and Reggie Bush. Davis was taken before pick 200 in only five drafts and before pick 150 in just one other draft, so Stephen could have almost definitely waited to take Davis.
 
 ### Clive Walford
 
@@ -42,7 +42,7 @@ I dislike Carlos Hyde as much as the next person, but this seems like a pretty s
 
 #### [Pick Number: 93](http://football30.myfantasyleague.com/2015/options?L=63005&O=17&DISPLAY=DIVISION03), ADP: 237
 
-There are reaches and then there are *reaches*. On average, Walford was taken in the middle of the 20th round and went undrafted in six drafts, yet he was picked here in the 8th. He doesn't even have the starting job yet and the only TE's taken ahead of him in this draft were Rob Gronkowski, Jimmy Graham, Travis Kelce, Greg Olsen, and Martellus Bennett. No you didn't miscount, Walford was indeed taken as the TE6. This pick might make a little more sense when I tell you that this owner's roster also includes Amari Cooper, Derek Carr, and Roy Helu. Homerism is a hell of a drug.
+There are reaches and then there are *reaches*. On average, Walford was taken in the middle of the 20th round and wasn't even picked in six drafts, yet he was taken here in the eighth round. He's not even guaranteed the starting job and yet the only TE's taken ahead of him in this draft were Rob Gronkowski, Jimmy Graham, Travis Kelce, Greg Olsen, and Martellus Bennett. No you didn't miscount, Walford was indeed taken as the TE6. This pick might make a little more sense when I tell you that this owner's roster also includes Amari Cooper, Derek Carr, and Roy Helu. Homerism is a hell of a drug.
 
 ### Honorable Mentions
 
@@ -69,7 +69,7 @@ There are reaches and then there are *reaches*. On average, Walford was taken in
 
 ## Biggest Steals
 
-It was tougher to find really great steals given the number of sharp drafters in these leagues. Good players rarely fell far, but there were still owners that got players much later than they typically went in these drafts.
+It was tougher to find really great steals given the number of sharp drafters in these leagues. Good players rarely fell far, but there were still owners who got players much later than they typically went in these drafts.
 
 ### Adrian Peterson
 
@@ -77,7 +77,7 @@ It was tougher to find really great steals given the number of sharp drafters in
 
 #### [Pick Number: 13](http://football30.myfantasyleague.com/2015/options?L=63005&O=17&DISPLAY=DIVISION01), ADP: 4.3
 
-Peterson was the player most often taken with the #1 overall pick, so he's a great value at the top of the 2nd. He comes with more question marks than in years past, but speaking as someone used a first overall pick on him, I think he's got the best chance of ending the season as the top overall RB.
+Peterson was the player most often taken with the first overall pick, so he's a great value at the top of the second round. He only made it to the back half of the first round in seven drafts. He comes with more question marks than in years past, but speaking as someone who actually used a first overall pick on him, I think he's got the best chance of ending the season as the top overall RB.
 
 ### Drew Brees
 
@@ -85,7 +85,7 @@ Peterson was the player most often taken with the #1 overall pick, so he's a gre
 
 #### [Pick Number: 54](http://football30.myfantasyleague.com/2015/options?L=66231&O=17&DISPLAY=DIVISION03), ADP: 31.1
 
-Other than Luck and Rodgers, who were both gone after the first three picks, pretty much every QB in this draft went later than average. For whatever reason, everyone decided to wait on taking a QB, which created some great values, the biggest of which was probably Brees. Not only was he taken about two rounds later than average, he was the 9th QB off the board in this draft. To put that in context, across all SFB drafts, Brees had the 4th highest ADP among QB's.
+Other than Luck and Rodgers, who were both gone after the first three picks, pretty much every QB in this draft went later than average. For whatever reason, everyone decided to wait on taking a QB, which created some great values, the biggest of which was probably Brees. Not only was he taken about two rounds later than average, he was the ninth QB off the board in this draft. To put that in context, across all SFB drafts, Brees had the fourth-highest ADP among QB's.
 
 ### Charles Clay
 
@@ -93,7 +93,7 @@ Other than Luck and Rodgers, who were both gone after the first three picks, pre
 
 #### [Pick Number: 250](http://football30.myfantasyleague.com/2015/options?L=63005&O=17&DISPLAY=DIVISION02), ADP: 181.9
 
-Call me crazy, but I think Clay will end the season with the 2nd most targets on the Bills behind Sammy Watkins. I'm not a big believer in Percy Harvin and I don't think McCoy will see too many receptions in Greg Roman's offense. Clay had a really nice 2013 season before falling off a bit last season while dealing with knee and hamstring issues. I think the Bills made Clay the league's 4th-highest paid TE for a reason, so I think Bob got great value on him while other owners were picking Rob Housler and Jacob Tamme.
+Call me crazy, but I think Clay will end the season with the second most targets on the Bills behind Sammy Watkins. I'm not a big believer in Percy Harvin and I don't think McCoy will get too many receptions in Greg Roman's offense. Clay had a really nice 2013 season before falling off a bit last season while dealing with knee and hamstring issues. I think the Bills made Clay the league's fourth-highest paid TE for a reason, so I think Bob got great value on him while other owners were picking Rob Housler and Jacob Tamme.
 
 ### Stevan Ridley
 
@@ -101,7 +101,7 @@ Call me crazy, but I think Clay will end the season with the 2nd most targets on
 
 #### [Pick number: Undrafted](http://football30.myfantasyleague.com/2015/options?L=63005&O=17&DISPLAY=DIVISION00), ADP: 202.1
 
-I understand that there are plenty of arguments against Ridley. There are two other accomplished RB's on the Jets' roster with similar playing styles to him. He's coming off an ACL injury and might start this season on the PUP list. But despite all of that, someone took a shot on him in every other draft except for this one and the latest he was taken in the other drafts was pick 227. Do you want to know how badly nobody wanted to draft Stevan Ridley in this league? Lache Seastrunk and Thomas Rawls were drafted and Ridley was not.
+I understand that there are plenty of arguments against Ridley. There are two other accomplished RB's on the roster with similar playing styles to him. He's coming off an ACL injury and might start this season on the PUP list. But despite all of that, someone took a shot on him in every other draft except for this one and the latest he was taken in the other drafts was pick 227. Do you want to know how badly nobody wanted to draft Stevan Ridley in this league? Lache Seastrunk and Thomas Rawls were drafted and Ridley was not.
 
 ### Honorable Mentions
 
@@ -121,6 +121,6 @@ I understand that there are plenty of arguments against Ridley. There are two ot
 
 * Rashad Jennings \| Fantasy Sharks - Dish Adams, Not First You're Last \| Pick number: 137, ADP: 97.6
 
-# Stevie Johnson \| Fan (Pyromaniac) - Robert Marino (@chubchubmcgrubb), You're My Boy Blue \| Pick Number: 202, ADP: 158.5
+* Stevie Johnson \| Fan (Pyromaniac) - Robert Marino (@chubchubmcgrubb), You're My Boy Blue \| Pick Number: 202, ADP: 158.5
 
 * Lance Dunbar \| FantasyPros/Blindside Football - Jen Ryan, Escalated Quickly \| Pick number: 259, ADP: 207.8
