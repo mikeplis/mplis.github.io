@@ -10,7 +10,7 @@ Identifying the biggest reaches and steals is a subjective process. I looked at 
 
 ## Biggest Reaches
 
-In a league with so many owners, there are bound to be people whose player evaluations differ from everyone else's. Maybe they know something we don't and this post will be looked back on and ridiculed at the end of the season. Or maybe these are simply cases were someone took a player too early. Only time will tell...even though some of these players really were taken too early.
+In a league with so many owners, there are bound to be people whose player evaluations differ from everyone else's. Maybe they know something we don't and this post will be looked back on and ridiculed at the end of the season. Or maybe these are simply cases where someone took a player too early. Only time will tell...even though some of these players really were taken too early.
 
 ### LeSean McCoy
 
