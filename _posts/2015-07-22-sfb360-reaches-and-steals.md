@@ -77,7 +77,7 @@ It was tougher to find really great steals given the number of sharp drafters in
 
 #### [Pick Number: 13](http://football30.myfantasyleague.com/2015/options?L=63005&O=17&DISPLAY=DIVISION01), ADP: 4.3
 
-Peterson was the player most often taken with the first overall pick, so he's a great value at the top of the second round. He only made it to the back half of the first round in seven drafts. He comes with more question marks than in years past, but speaking as someone who actually used a first overall pick on him, I think he's got the best chance of ending the season as the top overall RB.
+Peterson was the player most often taken with the first overall pick and lasted into the second half of the first round in only seven drafts, so he's a great value at the top of the second round. He comes with more question marks than in years past, but speaking as someone who actually used a first overall pick on him, I think he's got the best chance of ending the season as the top overall RB.
 
 ### Drew Brees
 
