@@ -1,3 +1,8 @@
+---
+layout: post
+title: A Dynasty Retrospective - Mid-Rebuild
+---
+
 I've been in the middle of a long-term rebuild as a part of the 72-team Reddit Dynasty League (RDFL) and I wanted to offer my commentary on the moves that I've made since I took control of an orphaned team following the 2013-2014 season.
 
 Important League Parameters
