@@ -44,7 +44,7 @@ WR - Cruz, K Wright, Shorts, E Sanders, Boldin, Stevie Johnson, Kerley, Mike Bro
 
 TE - Graham, Clay, Lewis
 
-Well, went you get to choose the 11th best abandoned team, this is what you get. It wasn't pretty, but there were some pieces to work with. At the time, Graham was a top-10 startup pick [according to DLF](http://dynastyleaguefootball.com/rankings/adp-february-2014/). Matt Ryan was the QB9, Cruz was the WR20, and Lynch was the RB11. I definitely didn't think there was enough to make a run with this team, so I committed to a rebuild early on.
+Well, went you get to choose the 11th-best abandoned team, this is what you get. It wasn't pretty, but there were some pieces to work with. At the time, Graham was a top-10 startup pick [according to DLF](http://dynastyleaguefootball.com/rankings/adp-february-2014/). Matt Ryan was the QB9, Cruz was the WR20, and Lynch was the RB11. I definitely didn't think there was enough to make a run with this team, so I committed to a rebuild early on.
 
 2014 Offseason
 ---
@@ -61,7 +61,7 @@ I made this trade the day that Moreno signed with Miami. He was another guy I wa
 
 **Traded Philip Rivers, 3.07 for 2.05, Geno Smith**
 
-The 2.05 was my target in this deal and Geno was just a throw-in so that I wasn't stuck with only 1 QB on my roster. Rivers is a decent QB but I felt that we had seen his ceiling and this is a 1 QB league anyway.
+The 2.05 was my target in this deal and Geno was just a throw-in so that I wasn't stuck with only 1 QB on my roster. Rivers is a decent QB, but I felt that we had seen his ceiling and this is a 1 QB league anyway.
 
 **Traded 1.05, 1.07, 3.03, Marlon Brown for DeAndre Hopkins, 2.06**
 
@@ -82,7 +82,7 @@ My comment on this pick was "Pretty raw but he's got the look of a future #1 WR 
 
 **2.07 - Charles Sims**
 
-"Great talent in a tough situation. Has a chance to see the field this season as a change-of-pace back, but I'm hoping he carves out a bigger role within a year or two.". I wasn't a huge fan of any of the WR's left at this spot and I had a huge need at RB. I was really struggling to decide between Sims, Ka'Deem Carey, and Tre Mason. Since I was thinking long-term, I took the guy I felt was the best talent, regardless of situation.
+"Great talent in a tough situation. Has a chance to see the field this season as a change-of-pace back, but I'm hoping he carves out a bigger role within a year or two". I wasn't a huge fan of any of the WR's left at this spot and I had a huge need at RB. I was really struggling to decide between Sims, Ka'Deem Carey, and Tre Mason. Since I was thinking long-term, I took the guy I felt was the best talent, regardless of situation.
 
 **Traded Stevie Johnson, 2.09 for Rod Streater, 3.05, 2015 3rd**
 
@@ -90,7 +90,7 @@ This is probably the worst trade I've made since taking over this team. Thankful
 
 **3.05 - Ka'Deem Carey**
 
-"I was considering him at 2.07 so I'll happily scoop him up here.". I was pretty stoked to see Carey fall to this spot. This was another pick I made with my eye a few years down the road and I was content to stash Carey until Forte was out of the way.
+"I was considering him at 2.07 so I'll happily scoop him up here". I was pretty stoked to see Carey fall to this spot. This was another pick I made with my eye a few years down the road and I was content to stash Carey until Forte was out of the way.
 
 **4.07 - C.J. Fiedorowicz**
 
