@@ -65,7 +65,7 @@ The 2.05 was my target in this deal and Geno was just a throw-in so that I wasn'
 
 **Traded 1.05, 1.07, 3.03, Marlon Brown for DeAndre Hopkins, 2.06**
 
-This was definitely my biggest trade of the offseason and I caught a lot of flak for it. A lot of people said that I overpaid for Hopkins, who was ranked as 18th dynasty WR (32nd overall player) at the time. Recently, I went back and tried to guess who I would've taken with those first round picks. My memory isn't perfect, but I'm pretty sure I would've ended up with Sankey and Davante Adams. That did make me feel a little bit better about the trade, but ultimately, I think that I overpaid based on Hopkins' value at the time. I was so thrilled to find an owner that was willing to part with a young, talented WR like Hopkins that I jumped on the first deal that looked okay.
+This was definitely my biggest trade of the offseason and I caught a lot of flak for it. A lot of people said that I overpaid for Hopkins, who was ranked as the WR18 at the time. Recently, I went back and tried to guess who I would've taken with those first round picks. My memory isn't perfect, but I'm pretty sure I would've ended up with Sankey and Davante Adams. That did make me feel a little bit better about the trade, but ultimately, I think that I overpaid based on Hopkins' value at the time. I was so thrilled to find an owner that was willing to part with a young, talented WR like Hopkins that I jumped on the first deal that looked okay.
 
 **Traded Emmanuel Sanders, Maurice Jones-Drew, Jermichael Finley, 2.06 for TY Hilton**
 
@@ -74,7 +74,7 @@ I was trying to capitalize on the hype Emmanuel Sanders was getting after he sig
 [2014 Rookie Draft](http://football26.myfantasyleague.com/2014/options?L=17492&O=17&DISPLAY=DIVISION02&POSITION=*&FRANCHISE=0000)
 ---
 
-Those trades comprised most of my activity leading up to the 2014 rookie draft, which in this league is held in mid-August. Since I had very little talent on my roster, I was content take who fell to me.
+Those trades comprised most of my activity leading up to the 2014 rookie draft, which in this league is held in mid-August. Since I had very little talent on my roster, I was content to take who fell to me.
 
 **2.05 - Donte Moncrief**
 
@@ -82,7 +82,7 @@ My comment on this pick was "Pretty raw but he's got the look of a future #1 WR 
 
 **2.07 - Charles Sims**
 
-"Great talent in a tough situation. Has a chance to see the field this season as a change-of-pace back, but I'm hoping he carves out a bigger role within a year or two". I wasn't a huge fan of any of the WR's left at this spot and I had a huge need at RB. I was really struggling to decide between Sims, Ka'Deem Carey, and Tre Mason. Since I was thinking long-term, I took the guy I felt was the best talent, regardless of situation.
+"Great talent in a tough situation. Has a chance to see the field this season as a change-of-pace back, but I'm hoping he carves out a bigger role within a year or two". I wasn't a huge fan of any of the WR's left at this spot and I had a huge need at RB. I was really struggling to decide between Sims, Ka'Deem Carey, and Tre Mason. Since I was thinking long-term, I took the guy I felt was the best talent.
 
 **Traded Stevie Johnson, 2.09 for Rod Streater, 3.05, 2015 3rd**
 
@@ -119,13 +119,13 @@ Now I'm going to say something that may rub some people the wrong way: I intenti
 2015 Offseason
 ---
 
-I didn't make many moves during the season, so I went info the 2015 offseason with pretty much the same roster as I had at the beginning of the season. Despite my focus on getting younger, a few of my early offseason trades saw me move draft picks for players that I coveted.
+I didn't make many moves during the season, so I went into the 2015 offseason with pretty much the same roster as I had at the beginning of the season. Despite my focus on getting younger, a few of my early offseason trades saw me move draft picks for players that I coveted.
 
 **Traded 3.01 for Paul Richardson**
 
 **Traded 2.01 for Kenny Stills**
 
-Richardson and Stills are two of my favorite sleepers, but I think I was a bit premature with these trades. I liked both of these trades until Miami drafted DeVante Parker and Seattle drafted Tyler Lockett. While I'm happy to own both players, I think I could have gotten a better deal if I had waited until after the NFL Draft, when the value of Richardson and Stills had fallen and the value of my draft picks had risen.
+Richardson and Stills were two of my favorite sleepers, but I think I was a bit premature with these trades. I liked both of them until Miami drafted DeVante Parker and Seattle drafted Tyler Lockett. I think I could have gotten a better deal if I had waited until after the NFL Draft, when the value of Richardson and Stills had fallen and the value of my draft picks had risen.
 
 **Traded 3.03 for Jason Witten, Gavin Escobar**
 
@@ -163,7 +163,7 @@ I was very active during the 2015 rookie draft. I went in with a bunch of picks 
 
 **1.01 - Amari Cooper**
 
-I knew I was likely only going to get one of Cooper and Gurley. It was a tough choice between those two, but ultimately I went with Cooper because he is a WR and you can never have too many WR's.
+I knew I was likely only going to get one of Cooper or Gurley. It was a tough choice between those two, but ultimately I went with Cooper because he is a WR and you can never have too many WR's.
 
 **1.03 - DeVante Parker**
 
@@ -189,11 +189,11 @@ Witten is one of my all-time favorite NFL players, but he had very little value 
 
 **2.11 - Jameis Winston**
 
-I wasn't originally planning on taking a QB in this draft, but I thought Winston was a really good value here and I had room for a young QB after trading away Matt Ryan. Mariota was also available and wrestled with which QB to take, but ultimately settled on the guy I thought had the highest upside.
+I wasn't originally planning on taking a QB in this draft, but I thought Winston was a really good value here and I had room for a young QB after trading away Matt Ryan. Mariota was also available and I wrestled with which QB to take, but I ultimately settled on the guy I thought had the highest upside.
 
 **Traded 3.09, 3.11 for 3.03**
 
-It was around this time that I realized I had too many draft picks. I knew that I was eventually going to have to drop 6 players in order to pick up the 4 IDP's, 1 kicker, and 1 coach I needed to fill out my starting roster. There were a few guys on my roster that I was okay with dropping, but I was trying pretty hard to consolidate some of my 3rd's to move up.
+It was around this time that I realized I had too many draft picks. I knew that I was eventually going to have to drop 6 players in order to pick up the 4 IDP's, 1 kicker, and 1 coach I needed to fill out my starting roster and I didn't want to be stuck having to drop a guy I just drafted, so I made this trade to consolidate some of my picks.
 
 **3.03 - Devin Smith**
 
@@ -209,7 +209,7 @@ I wasn't super crazy about Artis-Payne or Robinson, but my RB corps really neede
 
 **4.06 - MyCole Pruitt**
 
-Pruitt is one of my favorite late round rookies. He had a very productive college career and only has Kyle "This will finally be his breakout season" Rudolph ahead of him.
+Pruitt is one of my favorite late round rookies. He had a very productive college career and only has Kyle "This Will Finally Be His Breakout Season" Rudolph ahead of him.
 
 [Roster - Current](http://football26.myfantasyleague.com/2015/options?L=34348&O=07&F=0020)
 ---
@@ -237,7 +237,7 @@ I'm very happy with how my rebuild is going so far. I certainly don't have a con
 Lessons Learned
 ---
 
-* **If you're motivated to move a player, get a deal done.** Don't be so concerned with squeezing every last bit of value out of him. You may have to accept less than the "market value", but it's important to realize that market value differs from league to league. A fantasy league isn't like a stock market since there are only a few potential buyers.
+* **If you're motivated to move a player, get a deal done.** Don't be so concerned with squeezing every last bit of value out of him. You may have to accept less than the "market value", but it's important to realize that market value differs from league to league. A fantasy league isn't like a stock market - there are only a few potential buyers.
 * **When evaluating your past trades, be process-driven, not results-driven.** The Hopkins trade may look okay now knowing who I would've taken with those first round picks, but that doesn't mean it was a good trade. I should have waited until closer to the rookie draft to trade those picks away.
 * **Avoid trading for veterans before the NFL Draft**. Veterans rarely gain much value after the draft, but they can lose a ton of it. I liked Paul Richardson and Kenny Stills and likely could have gotten them for cheaper than I did had I waited until after the NFL Draft to trade for them.
 * **Have fun.** This sounds corny, but it's huge for me, especially with a relatively low-stakes dynasty team. Lately, I'm finding myself moving more towards DFS and best ball leagues and away from the more high-maintenance, low-ROI redraft and dynasty leagues. However, this league is still my favorite and I think that's because I'm having a lot of fun rebuilding this team. If you don't enjoy owning a team, mix things up. Trade for a stud WR you really want to own. Blow your team up and rebuild. Do something to make it fun to own that team.
