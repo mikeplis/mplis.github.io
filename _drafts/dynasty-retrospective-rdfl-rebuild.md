@@ -23,6 +23,7 @@ Important League Parameters
 * 0.5 PPR
 * 6 points/passing TD
 
+Links to full [scoring rules](http://football26.myfantasyleague.com/2015/options?L=34348&O=09) and [league bylaws](http://football26.myfantasyleague.com/2015/options?L=34348&O=26)
 
 *Note: This league is technically an IDP league, but I'm basically going to ignore IDP in this post. I almost never carry IDP during the offseason since we have so few defensive starters.*
 
@@ -50,36 +51,30 @@ Well, went you get to choose the 11th best abandoned team, this is what you get.
 
 I worked quickly to trade away any aging players that still had some value in exchange for young players and draft picks.
 
-**Traded Anquan Boldin for 3.03**
-
-Boldin's value has actually held up pretty well since I traded him, as he's currently valued at a mid 3rd round rookie pick, but he added very little value to my rebuilding team so I was happy to move him for whatever I could get.
-
 **Traded Marshawn Lynch, Kendall Wright for Keenan Allen, 1.05**
 
-I believe I was negotiating this trade for a while. I valued Wright pretty highly, since he was a young WR just coming of a 94-1079-2 season, and I wasn't crazy about parting with him. However, I was very motivated to move Lynch since I felt his value was at its peak, which I believe was true. Unfortunately, I paid for another player whose value had reached a peak: Keenan Allen. Allen's value may eventually get back to where it was last year ([top-10 dynasty WR](http://dynastyleaguefootball.com/rankings/adp-march-2014/)), but that was certainly not the time to buy him. I'm fairly happy with the trade though because I moved Lynch at the right time, Wright's value fell off quite a bit, and Allen's a trendy bounce-back candidate in 2015.
+I valued Wright pretty highly and I wasn't crazy about parting with him, but I was very motivated to move Lynch since I felt his value was at its peak, which I believe was true. Unfortunately, I paid for another player whose value had reached a peak: Keenan Allen. Allen's value may eventually get back to where it was last year ([top-10 dynasty WR](http://dynastyleaguefootball.com/rankings/adp-march-2014/)), but that was certainly not the time to buy him.
 
 **Traded Knowshon Moreno for 2.09**
 
-I made this trade the day that Moreno signed with Miami. He was another guy I was very motivated to move since he was older and was coming off his great season in Denver that felt a little fluky. There may have been a point last season that I could have moved him for a little bit more, but I don't like having to rely on timing the market for a player. He's obviously worth a lot less now, so this is another trade I'm happy with.
+I made this trade the day that Moreno signed with Miami. He was another guy I was very motivated to move since he was older and was coming off his great season in Denver that felt a little fluky.
 
 **Traded Philip Rivers, 3.07 for 2.05, Geno Smith**
 
-This initially looks bad because of Geno, but the 2.05 was my target in this deal and Geno was just a throw-in. Rivers is a decent QB but I felt that we had seen his ceiling and this is a 1 QB league anyway. I probably could have gotten a little more for Rivers during the season, but with Matt Ryan on the roster, Rivers wasn't worth much to me.
+The 2.05 was my target in this deal and Geno was just a throw-in so that I wasn't stuck with only 1 QB on my roster. Rivers is a decent QB but I felt that we had seen his ceiling and this is a 1 QB league anyway.
 
 **Traded 1.05, 1.07, 3.03, Marlon Brown for DeAndre Hopkins, 2.06**
 
-This was definitely my biggest trade of the offseason and I caught a lot of flak for it. A lot of people said that I overpaid for Hopkins, who was ranked as 18th dynasty WR (32nd overall player) at the time. I think I had been reading a few articles about how overrated rookie picks were and since this was my first dynasty league, I wasn't very confident in my ability to evaluate rookies anyway, so I was very willing to trade the picks away for a young receiver that I coveted. Recently, I went back and tried to guess who I would've taken with those first round picks. My memory isn't perfect, but I'm pretty sure I would've ended up with Sankey and Davante Adams. That did make me feel a little bit better about the trade, but ultimately, I think that I overpaid based on Hopkins' value at the time. I was so thrilled to find an owner that was willing to part with a young, talented WR like Hopkins that I jumped on the first deal that looked okay.
+This was definitely my biggest trade of the offseason and I caught a lot of flak for it. A lot of people said that I overpaid for Hopkins, who was ranked as 18th dynasty WR (32nd overall player) at the time. Recently, I went back and tried to guess who I would've taken with those first round picks. My memory isn't perfect, but I'm pretty sure I would've ended up with Sankey and Davante Adams. That did make me feel a little bit better about the trade, but ultimately, I think that I overpaid based on Hopkins' value at the time. I was so thrilled to find an owner that was willing to part with a young, talented WR like Hopkins that I jumped on the first deal that looked okay.
 
 **Traded Emmanuel Sanders, Maurice Jones-Drew, Jermichael Finley, 2.06 for TY Hilton**
 
-With this trade, I was trying to capitalize on the hype Emmanuel Sanders was getting after he signed in Denver. This trade happened in May and, to my dismay, the hype only continued to grow through the preseason and regular season. Thankfully, Jones-Drew and Finley quickly became droppable assets and Hilton's value got a nice bump as he was able to prove that he can be a legitimate fantasy WR1. I cashed in on Sanders too early, but this trade ultimately worked out for me since Hilton is likely the better long-term asset.
-
-<!--The funny thing about this trade is that the other owner opened negotiations with an offer of Hilton and Reggie Bush for my Sanders, Jones-Drew, Finley, Mike Williams (after he landed in Buffalo), and 2.05. To answer the questions that are popping up in your head: Yes, that would have been a better deal for me than what I eventually got; No, you're not missing something; Yes, I am an idiot. I used to assume that other owners never led with their best offer, so when this showed up in my inbox, I thought I could squeeze a little bit more out of this owner, so I countered with the same deal, but with a 3rd round pick added to his side. After he looked over the trade again, he backed out. Thankfully, I was able to salvage the deal, but I was definitely kicking myself over that one.-->
+I was trying to capitalize on the hype Emmanuel Sanders was getting after he signed in Denver. This trade happened in May and, to my dismay, the hype only continued to grow through the preseason and regular season. Thankfully, Jones-Drew and Finley quickly became droppable and Hilton's value got a nice bump as he was able to prove that he can be a legitimate fantasy WR1.
 
 [2014 Rookie Draft](http://football26.myfantasyleague.com/2014/options?L=17492&O=17&DISPLAY=DIVISION02&POSITION=*&FRANCHISE=0000)
 ---
 
-Those trades comprised most of my activity leading up to the 2014 rookie draft, which in this league is held in mid-August. Since I had very little talent on my roster, I was content to sit where I was and take who fell to me.
+Those trades comprised most of my activity leading up to the 2014 rookie draft, which in this league is held in mid-August. Since I had very little talent on my roster, I was content take who fell to me.
 
 **2.05 - Donte Moncrief**
 
@@ -112,7 +107,7 @@ WR - Hopkins, Allen, Hilton, Cruz, Shorts, Streater, Malcom Floyd, Hawkins, Aust
 
 TE - Graham, Clay, Fiedorowicz, Toilolo
 
-So far so good. At this point, most of my older players that had any value were gone and I had acquired a couple of good, young WR's to build around. I would have liked to have moved Graham at his first round startup price, but I figured I'd eventually find a buyer. 
+So far so good. Most of my older players that had any value were gone, I had acquired a couple of good, young WR's to build around, and I had picked up a few guys I liked off of waivers like Robinson, Riddick, and Hawkins. I would have liked to have moved Graham at his first round startup price, but I figured I'd eventually find a buyer. 
 
 [2014-2015 Season](http://football26.myfantasyleague.com/2014/options?L=17492&O=16&F=0020)
 ---
@@ -245,7 +240,4 @@ Lessons Learned
 * **If you're motivated to move a player, don't be so concerned with squeezing every last bit of value out of him. Get a deal done.** You may have to accept less than the "market value", but it's important to realize that market value differs from league to league. A fantasy league isn't like a stock market since there are only a few potential buyers.
 * **When evaluating your past trades, be process-driven, not results-driven.** The Hopkins trade may look okay now knowing who I would've taken with those first round picks, but that doesn't mean it was a good trade. I should have waited until closer to the rookie draft to trade those picks away.
 * **Avoid trading for veterans before the NFL Draft**. Veterans rarely gain much value after the draft, but they can lose a ton of it. I liked Paul Richardson and Kenny Stills and likely could have gotten them for cheaper than I did had I waited until after the NFL Draft to trade for them.
-
-<!--* **If you receive an offer that you believe is *clearly* in your favor, just accept it**. Don't get greedy and ask for a little bit more. Don't seek validation by posting the trade to Reddit or spending an hour looking at rankings, articles, etc. Just accept it. The only exception would be to quickly check Rotoworld to make sure you're not being offered a player that just tore his ACL or got suspended or something like that.-->
-
 * **Have fun.** This sounds corny, but it's huge for me, especially with a relatively low-stakes dynasty team. Lately, I'm finding myself moving towards DFS and best ball leagues and away from the more high-maintenance redraft and dynasty leagues, but this league is still my favorite and I think that's because I'm having a lot of fun rebuilding this team. If you don't enjoy owning a team, mix things up. Trade for a stud WR you really want to own. Blow your team up and rebuild. Do something to make it fun to own that team.
