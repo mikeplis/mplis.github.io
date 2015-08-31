@@ -154,7 +154,7 @@ WR - Hopkins, Hilton, Allen, Moncrief, Cruz, Stills, Quick, Beasley, B Coleman, 
 
 TE - Witten, Clay, Escobar, Cook, Paul
 
-Picks - 1.01, 1.02, 3.08, 3.09, 4.07
+Picks - 1.01, 1.03, 1.10, 3.08, 3.09, 4.07
 
 [2015 Rookie Draft](http://football26.myfantasyleague.com/2015/options?L=34348&O=17&DISPLAY=DIVISION02)
 ---
