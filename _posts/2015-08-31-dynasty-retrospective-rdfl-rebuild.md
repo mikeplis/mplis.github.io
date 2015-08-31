@@ -119,7 +119,7 @@ Now I'm going to say something that may rub some people the wrong way: I intenti
 2015 Offseason
 ---
 
-I didn't make many moves during the season, so I went into the 2015 offseason with pretty much the same roster as I had at the beginning of the season. Despite my focus on getting younger, a few of my early offseason trades saw me move draft picks for players that I coveted.
+I didn't make many moves during the season, so I went into the 2015 offseason with pretty much the same roster that I had at the beginning of the season. Despite my focus on getting younger, a few of my early offseason trades saw me move draft picks for players that I coveted.
 
 **Traded 3.01 for Paul Richardson**
 
