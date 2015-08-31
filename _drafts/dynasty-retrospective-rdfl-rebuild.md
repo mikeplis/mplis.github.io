@@ -137,7 +137,7 @@ I liked Quick as a bounce-back candidate and made him a target of mine. I didn't
 
 **Traded Jimmy Graham for 1.02**
 
-I finally got a deal done for Graham. I definitely could've gotten more for him last offseason, but unfortunately I couldn't find a serious buyer. Despite being traded to Seattle, he still retained a lot of value. He was already 28 though and didn't really fit in with the rest of my team.
+I finally got a deal done for Graham. I definitely could've gotten more for him last offseason, but unfortunately I couldn't find a serious buyer. Despite being traded to Seattle, he still has a lot of value. He is already 28 though and I believe that by the time my team is ready to compete, Graham will have lost a lot of value.
 
 **Traded 1.02 for 1.03, 1.10**
 
@@ -163,7 +163,7 @@ I was very active during the 2015 rookie draft. I went in with a bunch of picks 
 
 **1.01 - Amari Cooper**
 
-I knew I was likely only going to get one of Cooper and Gurley. It was a tough choice between these two, but ultimately I went with Cooper because he is a WR and you can never have too many WR's.
+I knew I was likely only going to get one of Cooper and Gurley. It was a tough choice between those two, but ultimately I went with Cooper because he is a WR and you can never have too many WR's.
 
 **1.03 - DeVante Parker**
 
@@ -171,11 +171,11 @@ Remember when I said you could never have too many WR's? I did consider Gordon h
 
 **Traded Victor Cruz for 2.11, 3.11**
 
-I had been trying to move Cruz all offseason. He still has some upside, but he's going into his age-29 season, is coming off a bad injury, and is very likely going to be relegated to a WR2 role due to Odell Beckham Jr's emergence.
+This may have been a slight undersell, but I really wanted to trade Cruz. He still has some upside, but he's going into his age-29 season, he's coming off a bad injury, and he won't see the same volume of targets he used to now that Odell Beckham Jr. is around.
 
 **1.10 - Dorial Green-Beckham**
 
-After taking Cooper and Parker, I was more okay with taking a chance on Green-Beckham's upside. I would have preferred any of Yeldon, Abdullah, Agholor, and Perriman here, but unfortunately they were all gone, and I didn't think the difference in value was big enough that it was worth it to try to move up.
+I'm not the biggest fan of Green-Beckham, but after taking Cooper and Parker, I was more okay with taking a chance on his upside. I would have preferred any of Yeldon, Abdullah, Agholor, and Perriman here, but unfortunately they were all gone, and I didn't think the difference in value was big enough that it was worth it to try to move up.
 
 **Traded Matt Ryan, 4.07 for Nick Foles, 2.05, 3.04**
 
@@ -237,7 +237,7 @@ I'm very happy with how my rebuild is going so far. I certainly don't have a con
 Lessons Learned
 ---
 
-* **If you're motivated to move a player, don't be so concerned with squeezing every last bit of value out of him. Get a deal done.** You may have to accept less than the "market value", but it's important to realize that market value differs from league to league. A fantasy league isn't like a stock market since there are only a few potential buyers.
+* **If you're motivated to move a player, get a deal done.** Don't be so concerned with squeezing every last bit of value out of him. You may have to accept less than the "market value", but it's important to realize that market value differs from league to league. A fantasy league isn't like a stock market since there are only a few potential buyers.
 * **When evaluating your past trades, be process-driven, not results-driven.** The Hopkins trade may look okay now knowing who I would've taken with those first round picks, but that doesn't mean it was a good trade. I should have waited until closer to the rookie draft to trade those picks away.
 * **Avoid trading for veterans before the NFL Draft**. Veterans rarely gain much value after the draft, but they can lose a ton of it. I liked Paul Richardson and Kenny Stills and likely could have gotten them for cheaper than I did had I waited until after the NFL Draft to trade for them.
-* **Have fun.** This sounds corny, but it's huge for me, especially with a relatively low-stakes dynasty team. Lately, I'm finding myself moving towards DFS and best ball leagues and away from the more high-maintenance redraft and dynasty leagues, but this league is still my favorite and I think that's because I'm having a lot of fun rebuilding this team. If you don't enjoy owning a team, mix things up. Trade for a stud WR you really want to own. Blow your team up and rebuild. Do something to make it fun to own that team.
+* **Have fun.** This sounds corny, but it's huge for me, especially with a relatively low-stakes dynasty team. Lately, I'm finding myself moving more towards DFS and best ball leagues and away from the more high-maintenance, low-ROI redraft and dynasty leagues. However, this league is still my favorite and I think that's because I'm having a lot of fun rebuilding this team. If you don't enjoy owning a team, mix things up. Trade for a stud WR you really want to own. Blow your team up and rebuild. Do something to make it fun to own that team.
