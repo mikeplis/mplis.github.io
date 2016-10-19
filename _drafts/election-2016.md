@@ -47,6 +47,18 @@ I don't consider myself categorically Republican or Democrat. I vote based on wh
 
 It wasn't easy keeping this part of my post to a reasonable length. 
 
+###He's Wrong...A Lot
+
+https://www.washingtonpost.com/news/fact-checker/wp/category/4-pinocchios/
+http://www.factcheck.org/person/donald-trump/
+http://www.politifact.com/personalities/donald-trump/statements/byruling/pants-fire/
+
+When Donald Trump is wrong about something, it's often very difficult to tell if he's being deliberately misleading or is just thoroughly misinformed. The number of times he's been wrong about something is staggering.
+
+----
+
+
+
 ----
 
 ##The Case Against Third Parties
