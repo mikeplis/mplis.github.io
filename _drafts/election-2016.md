@@ -55,6 +55,10 @@ http://www.politifact.com/personalities/donald-trump/statements/byruling/pants-f
 
 When Donald Trump is wrong about something, it's often very difficult to tell if he's being deliberately misleading or is just thoroughly misinformed. The number of times he's been wrong about something is staggering.
 
+###Lack of Ideas
+
+* "Secret Plan" to defeat ISIS reminds me of Will Arnett's character on The Office: http://www.dailymotion.com/video/x2v6749
+
 ----
 
 
@@ -98,6 +102,7 @@ https://www.youtube.com/watch?v=k3O01EfM5fU
         * Sexual Assault
         * Liar
         * Conspiracy theorist
+    * Sore loser
 
 
 * Where I get my info
