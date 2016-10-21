@@ -3,6 +3,36 @@ layout: post
 title: Election 2016
 ---
 
+----
+
+I've spent a lot of time following the presidential election this past year. I think it's important for people to vote and I also think it's important to be as informed as possible. I believe that part of being informed is simply talking to your friends and family about the candidates. 
+
+I want to emphasize that the purpose of this post isn't to tell you how to vote. I simply want to explain why I'm voting the way I am. For those that have already made up their minds, I hope that you'll come away with an understanding of how I'm approaching this election and what's important to me. For those that haven't, 
+
+I hope that you'll take the time to read the whole thing and maintain an open mind. 
+
+
+
+I've spent a lot of time thinking about this election and it was difficult for me to explain exactly why Donald Trump is such an unsatisfactory candidate to me. But then I realized why it was so difficult.
+
+In past elections, I've voted for the candidate whose policies I agreed with the most, and I had assumed I was approaching this election the same way. But that didn't explain why I found Trump *so* objectionable.
+
+I realized that the reason I was so dissatisfied with Trump is that he fails a simple test, one that I never even realized I administered to candidates because no one's ever come close to failing it before. It's not an explicit test, but if I could best summarize it, it would be this question: "Does this candidate have the capability to completely fuck everything up?".
+
+Now I don't really know what it means to "fuck everything up" and I don't think the chance that Trump does is all that high, but it's above zero and that's the point.
+
+Trump does not have the temperment I want in a President and I think the debates were a clear example of that.
+
+I used to think the debates were kind of pointless, that none of the questions ever got answered and that you never really learned anything from them. I always wanted a debate where the candidates were put through the ringer ([like on that episode of The Newsroom](https://youtu.be/AF-BZsrtoPs?t=141)).
+
+
+If you watched the debates this year, you probably noticed a similar pattern in each of them. At the beginning of the debates, Trump held his own. He hit his talking points, gave coherent answers, and was generally under control. But in each debate, there came a point around 30 minutes in that he started to unravel. 
+
+* Authoritarian tendencies
+* Backwards ideas about non-whites and women
+
+----
+
 I used to hold the opinion that it wasn't worth spending a lot of time learning about candidates in the national election. I felt that if I was going to pay attention to the election, I would *really* want to pay attention and learn as much as I could about the candidates, but since I only had one vote, that seemed like a lot of work in order to make an extremely small impact on the election.
 
 But I've come to realize that I can make a bigger impact that I originally thought. I can voice my opinions and potentially affect the vote of my friends and family, who could then affect the votes of other people. So over the last several months, I've *really* been paying attention to the national election. With only a couple months to go until Election Day, I felt that now was the right time for me to start trying to make an impact.
@@ -65,7 +95,6 @@ When Donald Trump is wrong about something, it's often very difficult to tell if
 
 https://www.youtube.com/watch?v=k3O01EfM5fU
 
-----
 
 * Good sources
     * New York Times endorsement: http://www.nytimes.com/2016/09/25/opinion/sunday/hillary-clinton-for-president.html
