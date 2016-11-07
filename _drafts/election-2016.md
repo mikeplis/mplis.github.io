@@ -12,7 +12,6 @@ I want to emphasize that the purpose of this post isn't to tell you how to vote.
 I hope that you'll take the time to read the whole thing and maintain an open mind. 
 
 
-
 I've spent a lot of time thinking about this election and it was difficult for me to explain exactly why Donald Trump is such an unsatisfactory candidate to me. But then I realized why it was so difficult.
 
 In past elections, I've voted for the candidate whose policies I agreed with the most, and I had assumed I was approaching this election the same way. But that didn't explain why I found Trump *so* objectionable.
@@ -131,6 +130,9 @@ https://www.youtube.com/watch?v=k3O01EfM5fU
         * Sexual Assault
         * Liar
         * Conspiracy theorist
+        * Narcissist
+            * Incapable of self-deprecation
+                * Al Smith dinner
     * Sore loser
 
 
@@ -138,3 +140,62 @@ https://www.youtube.com/watch?v=k3O01EfM5fU
 * The case for a major party (i.e. the case against staying home or voting third party)
 * The case for Hillary Clinton
 * The case against Donald Trump
+
+
+
+-------------------
+
+
+
+Hey Uncle Steven,
+
+Sarah and I really enjoyed having Matt over as well.
+
+I appreciate you taking the time to write up your thoughts so that I could see things from your perspective. It doesn't seem like you're a huge fan of Trump, but you feel that there's a better chance of the policies you think are important being implemented in a Trump presidency than a Clinton one. That's perfectly reasonable.
+
+I tend to lean liberal on a few issues, likely due to the fact that I didn't start paying much attention to politics until I went to Penn, but I don't consider myself to be a partisan. I think I would have given serious consideration to pretty much any other Republican candidate (except probably Cruz), and even more so if Sanders had won the Democratic nomination.
+
+Having said that, there was never a chance I was going to vote for Trump this election. I can't imagine a more objectionable candidate winning a presidential nomination.
+
+
+
+
+I see Trump as someone who woefully unqualified to handle the responsibilities of being President and is validating ideas and behaviors that are not only going to make solving the problems in this country much more difficult, but will also create bigger and more dangerous problems in the process.
+
+It's often difficult to tell when Trump is being intentionally deceitful, or simply doesn't know what he's talking about.
+
+
+Politicians have a reputation for lying, but Trump takes things to a new level. He literally makes things up, things that form the basis of his case to be President, and hopes people don't care enough to figure out if he's lying.
+
+There are real issues to be tackled in this country, but it's impossible to actually work towards solving them when someone like Trump has no interest in honestly identifying what the problems are. He takes every problem in this country (real or imagined), exaggerates its effects, and lays them solely at the feet of Barack Obama and Hillary Clinton. That is the not the formula for a productive political discourse.
+
+
+
+
+Trump's ties to authoritarianism and white supremacy are disqualifying. His repeated displays of sexism are disturbing. His fragile ego, lack of discipline, and propensity for inciting violence are concerning. His embrace of anti-intellectualism and conspiracy theorism is infuriating.
+
+Trump has energized some of the most hateful and (dare I say) deplorable factions of this country that had previously been relegated to the fringes of society. He has inflamed some of this country's most dangerous and most vile impulses.
+
+If Trump wins, it will have proven that even if you say a judge can't do his job properly because of his Mexican heritage, even if you mock a disabled reporter in front of thousands of people, even if you berate the family of a fallen Muslim-American soldier because they criticize you, even if you're caught on tape bragging about sexually assaulting women, none of it will matter because you can still become President of the United States.
+
+
+
+
+On Fri, Nov 4, 2016 at 9:54 AM, <skassman1@cox.net> wrote:
+Mike,
+
+Hope all is well in NYC.  Matt enjoyed his evening with you and Sarah.  I think the chef will have to return the invite and whip something up at his house.  Know he is looking forward to the Thanksgiving invite.  Sounds like Sarah was able to make a job change with a better commute and what sounds like a more secure company. Congratulations to both of you.
+
+Your mother shared with me your Facebook post.  First and foremost glad that you have an opinion and are voting. At this point the world belongs more to your generation than it does to mine. You and your contemporaries should have a prominent voice in shaping the future that belongs to you.  Honestly, little in the article that I disagree with except for the final conclusion that accrues from all of the facts outlined.  Maybe my own contorted mind games.
+
+Must say I changed my vote almost daily over the past several months. This being said I ultimately checked the box for Donald this past week.  The number of things I don't agree with is long, his climate change position is certainly one and I am confident that both candidates are clueless on healthcare reform/finances.   The author clearly recognizes Hillary's transgressions but views them as less egregious.  Probably reasonable.
+
+So why would I vote for Trump?  Ultimately I made the decision not based upon the candidates themselves but rather what I thought about the coat tails they would drag along. I watched a stump speech 10 days ago by Elizabeth Warren and that sealed the deal for me.  That she, and those who see the world like her, should have prominent positions in the Clinton presidency was simply too much for me to bear.  I don't disagree with some of the problems or issues raised by Bernie, and those of his mindset like Warren, are in need of solutions or attention.  Income inequality, social mobility, college debt, healthcare, and criminal justice reform to name a few are clearly legitimate concerns.  This being said I fundamentally disagree with their perspective on these topics.  For them, all are basically problems for the government to solve by spending money or transferring wealth.  I don't believe that they fundamentally agree with the concept of a meritocracy.  Rather, for them, what is most important is equality.  It's and old analogy but the example of the professor grading in this way is usually seen by most as not fair.  Never the less persons who support these politicians believe should run society in this way.  I would contend that most millennials that I have spoken to about this see this social justice as best for the society until the nitty gritty discussion of direct impact on their lives, like tax policy, is considered, then they want to protect their rightly earned gains.
+
+The economic ills of stagnant wages, less upward mobility, mounting college debt, and escalating health care costs are real but the etiologies are multi-factorial and solutions can vary.  "Free" college?  Makes sense that college today is what high school was 50 years ago.  Tax me more to pay for it?  IDK.  What about making the system more efficient. I challenge you to calculate the inflation rate at U Penn over the past 30 years.  I suspect it rivals or exceeds that of healthcare and is far above that of the general economy. Why?  In no short reason because it's government funded almost w/o limit. Student loans can be had.  What about demanding accountability from the educational institutions.  Brick and mortar stuff like that should be obsolete or at least nearly so.  I can learn almost all of what I need to be an orthopedic surgeon on line or thru live interactive webinars that can reach hundreds or thousands at a time and that can be shared and re-reviewed.  Where is the economy of scale in the current system?  Why make it a tax payer problem?
+
+The social commentary about criminal justice reform drives me crazy.  Do I think that there is "implicit bias?"  Sure.  This being said I think the Colin Kapernik protest and most of what "Black Lives Matter" stands for is BS.  I can not watch TV for 2 minutes w/o seeing people of color in positions that are important.  Almost all of the police chiefs at center of the controversies have been black.  Why is there never a discussion about personal accountability?   I think your father is a model of what is possible.  Opportunities were almost impossible to see.  That being said he somehow saw them, grasped them, and flourished.  Where is the discussion of personal responsibility within these communities when it comes to issues like single parent households--the greatest predictor of poverty.   I think we will all sink to a lower level if this primary historical tenet of American life is not preserved.
+
+But I digress.  Is Donald the icon paragon of these ideals?  Hardly. But ultimately I convinced myself that the chance that these notions were more likely to embodied in a Supreme Court, in legislation enacted with Congress, and in a presidential administration were more likely with Donald than with Hillary.  Scary in many ways but that's how I chose.   The people will prevail in a few days and I guess history will tell.
+
+Uncle Steven
